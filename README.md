@@ -1,4 +1,6 @@
 ## angular-cache
+
+[![Join the chat at https://gitter.im/shprink/angular-cache](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/shprink/angular-cache?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 __A very useful replacement for Angular's $cacheFactory.__
 
 __Version:__ 3.0.3
